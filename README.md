@@ -15,11 +15,6 @@ This Python script utilizes the OpenAI API to generate PowerShell code that fulf
 3. Define the maximum number of attempts (iterations) the script will make to generate and execute the code.
 4. The script will generate and execute the PowerShell code. If successful, it will display the result. If it fails, it will show an error message.
 
-## Notes
-
-- Ensure you have an active internet connection for the script to access the OpenAI API.
-- Note that the generation of PowerShell code may not always be perfect. You may need to manually adjust the generated code to fit your specific needs.
-
 ---
 
 # Generador y Ejecutor de Código PowerShell
@@ -38,8 +33,3 @@ Este script en Python utiliza la API de OpenAI para generar código de PowerShel
 2. Ingresa la frase que describa el comportamiento deseado del código de PowerShell.
 3. Define el número máximo de intentos (iteraciones) que el script realizará para generar y ejecutar el código.
 4. El script generará y ejecutará el código de PowerShell. Si tiene éxito, mostrará el resultado. Si falla, mostrará un mensaje de error.
-
-## Notas
-
-- Asegúrate de tener una conexión a Internet activa para que el script pueda acceder a la API de OpenAI.
-- Ten en cuenta que la generación de código de PowerShell puede no ser siempre perfecta. Es posible que necesites ajustar manualmente el código generado según tus necesidades específicas.
